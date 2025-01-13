@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Containers>
+  <PluginURL>https://raw.githubusercontent.com/fejich/unraid-webhookd/master/webhookd.plg</PluginURL>
+  <PluginAuthor>fejich</PluginAuthor>
+  <Beta>False</Beta>
+  <Category>Network:Web Productivity: Tools: Tools:System</Category>
+  <Name>webhookd</Name>
+  <Description>A very simple webhook server to launch shell scripts.; This is a unRAID plugin for the webhookd binary executable</Description>
+  <Support>https://forums.unraid.net/topic/184757-support-fejich-ctop-fclones-webhookd</Support>
+  <Icon>https://raw.githubusercontent.com/fejich/unraid-webhookd/main/logo.png</Icon>
+</Containers>
