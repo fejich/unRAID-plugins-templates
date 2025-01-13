@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Containers>
+  <PluginURL>https://raw.githubusercontent.com/fejich/unraid-ctop/master/ctop.plg</PluginURL>
+  <PluginAuthor>fejich</PluginAuthor>
+  <Beta>False</Beta>
+  <Category>Productivity: Tools: Tools:System</Category>
+  <Name>ctop</Name>
+  <Description>Top-like interface for container metrics; This is a unRAID plugin for the ctop binary executable</Description>
+  <Support>https://forums.unraid.net/topic/184757-support-fejich-ctop-fclones-webhookd</Support>
+  <Icon>https://raw.githubusercontent.com/fejich/unraid-ctop/main/logo.png</Icon>
+</Containers>
