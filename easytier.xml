@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Containers>
+  <PluginURL>https://raw.githubusercontent.com/fejich/unraid-easytier/master/easytier.plg</PluginURL>
+  <PluginAuthor>fejich</PluginAuthor>
+  <Beta>False</Beta>
+  <Category>Network:Web Productivity: Tools: Tools:System</Category>
+  <Name>easytier</Name>
+  <Description>A simple, secure, decentralized networking solution; This is a unRAID plugin for the easytier binary executable</Description>
+  <Support>https://forums.unraid.net/topic/184757-support-fejich-ctop-fclones-webhookd</Support>
+  <Icon>https://raw.githubusercontent.com/fejich/unraid-easytier/main/logo.png</Icon>
+</Containers>
